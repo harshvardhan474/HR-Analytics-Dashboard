@@ -1,0 +1,31 @@
+Employee ID,Employee Name,Gender,Age,Department,Job Role,Education,Experience,Salary,Performance Rating,Overtime,Marital Status,Work Mode,Joining Date,Attrition
+EMP001,Amit Sharma,Male,26,IT,Software Engineer,B.Tech,2,45000,4,Yes,Single,Hybrid,2023-02-15,Yes
+EMP002,Priya Verma,Female,30,HR,HR Executive,MBA,5,60000,5,No,Married,Office,2021-08-10,No
+EMP003,Rahul Singh,Male,29,Sales,Sales Executive,BBA,4,52000,3,Yes,Married,Office,2022-04-18,Yes
+EMP004,Sneha Gupta,Female,35,Finance,Accountant,M.Com,8,75000,5,No,Married,Hybrid,2018-11-20,No
+EMP005,Arjun Mehta,Male,24,Marketing,Marketing Associate,MBA,1,38000,3,Yes,Single,Remote,2024-01-05,Yes
+EMP006,Neha Joshi,Female,28,IT,Data Analyst,B.Tech,3,58000,4,No,Single,Hybrid,2022-09-12,No
+EMP007,Karan Patel,Male,32,Finance,Financial Analyst,MBA,7,82000,5,No,Married,Office,2019-05-25,No
+EMP008,Pooja Sharma,Female,27,Sales,Sales Manager,MBA,4,70000,4,Yes,Married,Hybrid,2021-06-14,No
+EMP009,Rohit Kumar,Male,31,IT,System Administrator,B.Tech,6,67000,4,Yes,Married,Office,2020-03-11,No
+EMP010,Anjali Jain,Female,25,HR,Recruiter,MBA,2,43000,3,No,Single,Remote,2023-07-01,Yes
+EMP011,Vivek Yadav,Male,34,Marketing,Marketing Manager,MBA,9,92000,5,No,Married,Office,2017-09-08,No
+EMP012,Riya Kapoor,Female,29,IT,Business Analyst,B.Tech,5,72000,4,No,Married,Hybrid,2020-12-17,No
+EMP013,Mohit Saini,Male,27,Sales,Sales Executive,B.Com,3,48000,3,Yes,Single,Office,2022-10-09,Yes
+EMP014,Simran Kaur,Female,33,Finance,Finance Manager,MBA,8,98000,5,No,Married,Hybrid,2018-06-15,No
+EMP015,Deepak Arora,Male,36,IT,Project Manager,M.Tech,10,120000,5,Yes,Married,Office,2016-01-22,No
+EMP016,Nisha Roy,Female,26,Marketing,SEO Specialist,BCA,2,42000,4,No,Single,Remote,2023-05-18,Yes
+EMP017,Aditya Mishra,Male,30,IT,Data Engineer,B.Tech,6,85000,5,Yes,Married,Hybrid,2019-11-30,No
+EMP018,Kavita Das,Female,31,HR,HR Manager,MBA,7,88000,5,No,Married,Office,2019-02-19,No
+EMP019,Sandeep Rao,Male,28,Sales,Territory Manager,MBA,4,65000,4,Yes,Single,Office,2021-09-10,No
+EMP020,Meera Iyer,Female,27,Finance,Auditor,CA,3,73000,5,No,Married,Hybrid,2022-01-03,No
+EMP021,Harsh Vardhan,Male,23,IT,Junior Data Analyst,B.Tech,1,40000,4,No,Single,Hybrid,2024-02-10,No
+EMP022,Tanya Singh,Female,29,Marketing,Content Strategist,MBA,5,62000,4,Yes,Married,Remote,2021-07-16,Yes
+EMP023,Gaurav Jain,Male,37,Finance,Senior Accountant,M.Com,11,105000,5,No,Married,Office,2015-04-06,No
+EMP024,Ayesha Khan,Female,24,HR,HR Assistant,BBA,1,36000,3,No,Single,Office,2024-03-12,Yes
+EMP025,Nitin Verma,Male,33,Sales,Regional Manager,MBA,8,97000,5,Yes,Married,Hybrid,2018-08-28,No
+EMP026,Sakshi Bansal,Female,28,IT,QA Engineer,B.Tech,4,61000,4,No,Married,Hybrid,2021-05-21,No
+EMP027,Akash Gupta,Male,26,Marketing,Digital Marketer,BBA,2,45000,3,Yes,Single,Remote,2023-04-15,Yes
+EMP028,Divya Sharma,Female,35,Finance,Finance Controller,MBA,10,115000,5,No,Married,Office,2016-10-19,No
+EMP029,Manish Choudhary,Male,31,IT,DevOps Engineer,B.Tech,7,90000,5,Yes,Married,Hybrid,2019-06-01,No
+EMP030,Pooja Meena,Female,27,Sales,Sales Executive,B.Com,3,50000,4,No,Single,Office,2022-08-11,Yes

@@ -1,0 +1,22 @@
+HR Analytics Dashboard - Project Summary
+
+Title:
+HR Analytics Dashboard: Employee Attrition, Salary & Workforce Insights
+
+Objective:
+Analyze employee data to identify workforce trends, monitor attrition, evaluate salary distribution, measure department performance and assess workforce demographics.
+
+Tools:
+Power BI, Excel/CSV, DAX, SQL, GitHub
+
+Dataset:
+30 employee records.
+
+KPIs:
+Total Employees = 30
+Employees Left = 9
+Active Employees = 21
+Attrition Rate = 30%
+
+Portfolio Skills Demonstrated:
+Data cleaning, data modeling, DAX, KPI design, data visualization, exploratory analysis, SQL and business insight communication.

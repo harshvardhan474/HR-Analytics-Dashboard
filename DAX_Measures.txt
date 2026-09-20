@@ -1,0 +1,55 @@
+HR Analytics Dashboard - DAX Measures
+
+Total Employees =
+COUNT(Employee[Employee ID])
+
+Employees Left =
+CALCULATE(COUNT(Employee[Employee ID]), Employee[Attrition] = "Yes")
+
+Active Employees =
+[Total Employees] - [Employees Left]
+
+Attrition Rate =
+DIVIDE([Employees Left], [Total Employees], 0)
+
+Average Salary =
+AVERAGE(Employee[Salary])
+
+Average Age =
+AVERAGE(Employee[Age])
+
+Average Experience =
+AVERAGE(Employee[Experience])
+
+Male Employees =
+CALCULATE(COUNT(Employee[Employee ID]), Employee[Gender] = "Male")
+
+Female Employees =
+CALCULATE(COUNT(Employee[Employee ID]), Employee[Gender] = "Female")
+
+Calculated Column - Experience Group =
+SWITCH(
+    TRUE(),
+    Employee[Experience] <= 2, "0-2 Years",
+    Employee[Experience] <= 5, "3-5 Years",
+    Employee[Experience] <= 8, "6-8 Years",
+    "9+ Years"
+)
+
+Calculated Column - Salary Band =
+SWITCH(
+    TRUE(),
+    Employee[Salary] >= 30000 && Employee[Salary] <= 50000, "30K-50K",
+    Employee[Salary] > 50000 && Employee[Salary] <= 70000, "50K-70K",
+    Employee[Salary] > 70000 && Employee[Salary] <= 90000, "70K-90K",
+    Employee[Salary] > 90000, "Above 90K"
+)
+
+Calculated Column - Salary Band Order =
+SWITCH(
+    Employee[Salary Band],
+    "30K-50K", 1,
+    "50K-70K", 2,
+    "70K-90K", 3,
+    "Above 90K", 4
+)
